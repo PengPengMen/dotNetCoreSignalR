@@ -7,7 +7,6 @@
 实现对不同用户定向消息推送
 ### 效果：
 ![不同用户发送消息](https://note.youdao.com/yws/public/resource/7ab1f789eb5c0793b12365f4a60cdf14/xmlnote/6E4D2CDA47B0437AA985DDF8F05FFB5C/31349)
-
 ## 开发环境：
 * 1.net Core  2.2 
 * 2.Redis 

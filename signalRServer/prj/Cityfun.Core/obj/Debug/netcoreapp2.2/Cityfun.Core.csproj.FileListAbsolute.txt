@@ -1,0 +1,9 @@
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\bin\Debug\netcoreapp2.2\Cityfun.Core.deps.json
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\bin\Debug\netcoreapp2.2\Cityfun.Core.dll
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\obj\Debug\netcoreapp2.2\Cityfun.Core.csproj.CoreCompileInputs.cache
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\obj\Debug\netcoreapp2.2\Cityfun.Core.AssemblyInfoInputs.cache
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\obj\Debug\netcoreapp2.2\Cityfun.Core.AssemblyInfo.cs
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\bin\Debug\netcoreapp2.2\Cityfun.Core.pdb
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\obj\Debug\netcoreapp2.2\Cityfun.Core.csprojAssemblyReference.cache
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\obj\Debug\netcoreapp2.2\Cityfun.Core.dll
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\Cityfun.Core\obj\Debug\netcoreapp2.2\Cityfun.Core.pdb

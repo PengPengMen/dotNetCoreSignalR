@@ -1,0 +1,9 @@
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\bin\Debug\netcoreapp2.2\cityfun.Redis.deps.json
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\bin\Debug\netcoreapp2.2\cityfun.Redis.dll
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\obj\Debug\netcoreapp2.2\cityfun.Redis.csproj.CoreCompileInputs.cache
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\obj\Debug\netcoreapp2.2\cityfun.Redis.AssemblyInfoInputs.cache
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\obj\Debug\netcoreapp2.2\cityfun.Redis.AssemblyInfo.cs
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\obj\Debug\netcoreapp2.2\cityfun.Redis.csprojAssemblyReference.cache
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\bin\Debug\netcoreapp2.2\cityfun.Redis.pdb
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\obj\Debug\netcoreapp2.2\cityfun.Redis.dll
+E:\mycode\netCore\20.Web实时消息\signalRServer\prj\cityfun.Redis\obj\Debug\netcoreapp2.2\cityfun.Redis.pdb

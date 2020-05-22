@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web.Runtime", "Web.Runtime", "{9F081E0E-A9D4-4703-B92F-BBA1D81CB15C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cityfun.RunTime", "..\prj\cityfun.RunTime\cityfun.RunTime.csproj", "{4103A664-04C8-41AA-9317-39161D9E6C56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SignalR.Domain", "SignalR.Domain", "{EDC393A3-0F28-46E4-BAED-7318A99DC2F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cityfun.Hub", "..\prj\cityfun.Hub\cityfun.Hub.csproj", "{7881C6C0-0E26-42FD-9934-2109B5A98792}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SignalR.Redis", "SignalR.Redis", "{2886EA42-063A-4615-AE32-AA14CFD2ABFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cityfun.Redis", "..\prj\cityfun.Redis\cityfun.Redis.csproj", "{5DC3C25F-18B2-46DB-A6B3-B00E1E8D1BCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CityFun.Core.Base", "CityFun.Core.Base", "{3BD8656D-58C9-467C-9128-8C6F48A29A0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cityfun.Core", "..\prj\Cityfun.Core\Cityfun.Core.csproj", "{5B9F81F3-820F-4669-8043-909E5C94831E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CityFun.Redis.Client", "CityFun.Redis.Client", "{46434BD5-308F-4642-87C4-0AB574BF8338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cityfun.Redis.ClientDemo", "..\prj\cityfun.Redis.ClientDemo\cityfun.Redis.ClientDemo.csproj", "{C504A2CA-AA2B-48E4-B38C-D1A73222DF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4103A664-04C8-41AA-9317-39161D9E6C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4103A664-04C8-41AA-9317-39161D9E6C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4103A664-04C8-41AA-9317-39161D9E6C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4103A664-04C8-41AA-9317-39161D9E6C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7881C6C0-0E26-42FD-9934-2109B5A98792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7881C6C0-0E26-42FD-9934-2109B5A98792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7881C6C0-0E26-42FD-9934-2109B5A98792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7881C6C0-0E26-42FD-9934-2109B5A98792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC3C25F-18B2-46DB-A6B3-B00E1E8D1BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC3C25F-18B2-46DB-A6B3-B00E1E8D1BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC3C25F-18B2-46DB-A6B3-B00E1E8D1BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC3C25F-18B2-46DB-A6B3-B00E1E8D1BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9F81F3-820F-4669-8043-909E5C94831E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9F81F3-820F-4669-8043-909E5C94831E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9F81F3-820F-4669-8043-909E5C94831E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9F81F3-820F-4669-8043-909E5C94831E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C504A2CA-AA2B-48E4-B38C-D1A73222DF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C504A2CA-AA2B-48E4-B38C-D1A73222DF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C504A2CA-AA2B-48E4-B38C-D1A73222DF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C504A2CA-AA2B-48E4-B38C-D1A73222DF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4103A664-04C8-41AA-9317-39161D9E6C56} = {9F081E0E-A9D4-4703-B92F-BBA1D81CB15C}
+		{7881C6C0-0E26-42FD-9934-2109B5A98792} = {EDC393A3-0F28-46E4-BAED-7318A99DC2F8}
+		{5DC3C25F-18B2-46DB-A6B3-B00E1E8D1BCC} = {2886EA42-063A-4615-AE32-AA14CFD2ABFF}
+		{5B9F81F3-820F-4669-8043-909E5C94831E} = {3BD8656D-58C9-467C-9128-8C6F48A29A0A}
+		{C504A2CA-AA2B-48E4-B38C-D1A73222DF1B} = {46434BD5-308F-4642-87C4-0AB574BF8338}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4644BAE-8DB1-48C1-9B3F-819D61CD9EEA}
+	EndGlobalSection
+EndGlobal
